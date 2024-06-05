@@ -5,9 +5,10 @@ Once this is done, the array will be printed out indicating the order the knight
 Example:
 
 Input : 
-8 8
+3 3
 0 0
-0
+1
+1 1
 
 Output:
 0  59  38  33  30  17   8  63
